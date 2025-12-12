@@ -8,4 +8,9 @@ export default {
     extend: {},
   },
   plugins: [],
+  safelist: [
+  'opacity-0',
+  'rotate-45',
+  '-rotate-45',
+]
 }
