@@ -21,7 +21,7 @@ This project is my personal portfolio built with **React** and **Vite**, designe
 
 # Clone the repository
 
-git clone https://github.com/Itsnotxarwa/voixup-front.git
+git clone https://github.com/Itsnotxarwa/my-portfolio.git
 
 ## Navigate to the project folder
 
