@@ -19,7 +19,7 @@ const projects = [
         liveUrl:"https://maziaapp.vercel.app/"
     },
     {
-        image: Mazia,
+        image: Mazia2,
         title: "Mazia application v2",
         description:"The second version of Mazia, built with React and Vite, featuring a refined white and blue design, improved UI consistency, and smooth animated interactions.",
         githubUrl:"https://github.com/Itsnotxarwa/mazia-v2.git",
