@@ -18,7 +18,8 @@ export default function Tech() {
                         key={i}
                         className="group transition-transform duration-700 hover:scale-105 rlative overflow-hidden flex justify-between p-4 md:p-6 rounded-xl bg-white text-black">
                             <div className="flex gap-6">
-                            <div className="flex justify-center items-center w-10 h-10 transition-transform duration-700 group-hover:scale-105">
+                            <div className={`flex justify-center items-center ${t.size} transition-transform duration-700 
+                            group-hover:scale-105`}>
                                 {t.svg}
                             </div>
                             <h3 className="font-[poppins] text-xl md:text-xl lg:text-2xl font-bold tracking-tight transition-transform duration-700 group-hover:scale-105">
