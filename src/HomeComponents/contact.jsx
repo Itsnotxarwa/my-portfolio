@@ -78,7 +78,7 @@ export default function Contact() {
                             </div>
                             <div>
                                 <ReCAPTCHA
-                                sitekey="6LfFXkUsAAAAANcHDQuFAdJ-5Fb0_OLMJ3xLN2pJ"
+                                sitekey="6LcHOVssAAAAAMo1WHnOH9uj8xs2e_7xk_65cUPG"
                                 onChange={(value) => setCaptchaValue(value)}
                                 />
                             </div>
